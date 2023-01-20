@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vulpes231
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning web programming with python
+- 👀 I’m a web developer 
+- 🌱 I can work with the ff stacks.. javascript,python, reactjs, django
 - 💞️ I’m looking to collaborate on python projects
 - 📫 How to reach me drakeys001 on Telegram
 
