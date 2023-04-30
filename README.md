@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @vulpes231
-- 👀 I’m a programmer / webdev
-- Python | Javascript | HTML/CSS | Git | Django | ReactJs
+-  Hi, I’m Adebayo Olayinka
+-  I’m a Software / Fullstack developer 
+- Python | Javascript | ReactJs | Git | Django | NodeJs | ExpressJS | ReduxToolkit | MongoDB
 - 💞️ I’m looking to collaborate any type of webdev projects to gain more experience
 
 <!---
