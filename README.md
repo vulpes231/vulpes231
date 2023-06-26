@@ -1,5 +1,5 @@
 -  Hi, I’m Adebayo Olayinka
--  I’m a Software / Fullstack developer 
+-  I’m a Software developer
 - Python | Javascript | ReactJs | Git | Django | NodeJs | ExpressJS | ReduxToolkit | MongoDB
 - 💞️ I’m looking to collaborate any type of webdev projects to gain more experience
 
