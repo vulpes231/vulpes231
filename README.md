@@ -1,7 +1,6 @@
 -  Hi, I’m Adebayo Olayinka
--  I’m a Software developer
-- Python | Javascript | ReactJs | Git | Django | NodeJs | ExpressJS | ReduxToolkit | MongoDB
-- 💞️ I’m looking to collaborate any type of webdev projects to gain more experience
+-  I’m a Fullstack software developer
+-  Javascript | ReactJs | Git | NodeJs | ExpressJS | ReduxToolkit | MongoDB
 
 <!---
 vulpes231/vulpes231 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
